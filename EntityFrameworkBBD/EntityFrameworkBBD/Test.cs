@@ -8,6 +8,6 @@ namespace EntityFrameworkBBD
 {
     class Test
     {
-        // testcasdcvafv srgbdthnf fjjyn
+        // testcasdcvafv
     }
 }
